@@ -9,5 +9,5 @@
 - Chart.js
 
 ### Keterangan <br/>
-Database : <code>ci_barang</code><br/>
+Database : <code>qurban</code><br/>
 <br/>
